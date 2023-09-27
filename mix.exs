@@ -1,9 +1,9 @@
-defmodule Projectsite.MixProject do
+defmodule Jaxlo.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :projectsite,
+      app: :jaxlo,
       version: "0.1.0",
       elixir: "~> 1.15",
       start_permanent: Mix.env() == :prod,
