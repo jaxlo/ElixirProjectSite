@@ -1,7 +1,5 @@
-defmodule Jaxlo do
-  # See https://hexdocs.pm/elixir/Application.html
-  # for more information on OTP Applications
-  @moduledoc false
+defmodule Jaxlo.Application do
+  # This is the main file that manages the workers/plugs
   require Logger
   use Application
 
