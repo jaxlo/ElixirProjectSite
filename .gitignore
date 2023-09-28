@@ -24,3 +24,6 @@ jaxlo-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Elixir ls
+/.elixir_ls/
